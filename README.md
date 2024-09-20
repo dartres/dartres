@@ -1,7 +1,6 @@
 ## Olá!! Eu sou a Brenda Padilha 👋
 
-🌟 Sou entusiasta de tecnologia e faço curso técnico em informática para internet  
-🔍 Explorando as tecnologias de Backend  
+🌟 Sou entusiasta de tecnologia e faço curso técnico em informática para internet 
 
 <div>
   <img height=190em  src="https://github-readme-stats.vercel.app/api?username=dartres&show_icons=true&theme=synthwave" />
