@@ -2,7 +2,10 @@
 
 🌟 Sou entusiasta de tecnologia e faço curso técnico em informática para internet 
 
-
+<div>
+  <img height=190em  src="https://github-readme-stats.vercel.app/api?username=dartres&layout=donut&theme=synthwave" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres&layout=donut&theme=synthwave" />
+</div>
 
 ## Tecnologias
 <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,sqlite,laravel,nodejs,react,git" />
