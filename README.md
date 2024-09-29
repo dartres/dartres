@@ -3,8 +3,8 @@
 🌟 Sou entusiasta de tecnologia e faço curso técnico em informática para internet 
 
 <div>
-   <p><img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=dartres" /></p>
-  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres" />
+   <p><img height=170em src="https://github-readme-streak-stats.herokuapp.com/?user=dartres" /></p>
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres" />
 </div>
 
 ## Tecnologias
