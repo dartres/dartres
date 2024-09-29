@@ -4,7 +4,7 @@
 
 <div>
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=dartres" />
-  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres&layout=donut" />
 </div>
 
 ## Tecnologias
