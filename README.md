@@ -4,7 +4,7 @@
 
 <div>
    <img height=190em src="https://github-readme-stats.vercel.app/api? 
-    username=dartres&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+    username=dartres&theme=transparent&show_icons=true" />
   <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartres" />
 </div>
 
