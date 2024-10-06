@@ -1,6 +1,8 @@
 ## Olá!! Eu sou a Brenda Padilha 👋
 
-🌟 Sou entusiasta de tecnologia e faço curso técnico em informática para internet 
+🌟 Sou entusiasta de tecnologia e programação.
+
+💻 Faço curso técnico em informática para internet.
 
 <div>
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=dartres" />
