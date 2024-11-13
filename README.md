@@ -8,7 +8,7 @@
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=dartres" />
 
 ## Tecnologias
-<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,sqlite,laravel,nodejs,react,git" />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,sqlite,laravel,nodejs,react,git,github" />
 
 <hr>
 <a href="mailto:bpadilhaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
